@@ -1,0 +1,5 @@
+a = int(input("Enter height"))
+b = int(input("Enter base first  value  "))
+b1 = int(input("Enter base second value "))
+r = (((b+b1)/2)*a)
+print(r)
